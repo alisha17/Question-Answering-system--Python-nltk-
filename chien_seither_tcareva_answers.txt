@@ -1,0 +1,699 @@
+QuestionID: blogs-01-1
+Answer: on eventful today
+
+QuestionID: blogs-01-2
+Answer: G20 summit
+
+QuestionID: blogs-01-3
+Answer: along the street
+
+QuestionID: blogs-01-4
+Answer: a police car
+
+QuestionID: blogs-01-5
+Answer: The people
+
+QuestionID: blogs-01-6
+Answer: The people
+
+QuestionID: blogs-01-7
+Answer: car and threw a thing at a police .
+
+QuestionID: blogs-01-8
+Answer: The people
+
+QuestionID: blogs-01-9
+Answer: burned and things were thrown at cops .
+
+QuestionID: blogs-01-10
+Answer: were burned and things were thrown at cops .
+
+QuestionID: blogs-01-11
+Answer: tear gas and bean bullets
+
+QuestionID: blogs-01-12
+Answer: tear gas and bean bullets
+
+QuestionID: blogs-01-13
+Answer: fired at the rioters while they smash windows of stores .
+
+QuestionID: blogs-01-14
+Answer: The police
+
+QuestionID: blogs-01-15
+Answer: things
+
+QuestionID: blogs-01-16
+Answer: because it disagreed about a view .
+
+QuestionID: blogs-01-17
+Answer: riot
+
+QuestionID: blogs-01-18
+Answer: since I 've never seen a riot before .
+
+QuestionID: blogs-01-19
+Answer: The police
+
+QuestionID: blogs-01-20
+Answer: The people
+
+QuestionID: blogs-01-21
+Answer: The police
+
+QuestionID: blogs-01-22
+Answer: A summit meeting
+
+QuestionID: blogs-01-23
+Answer: 
+
+QuestionID: blogs-01-24
+Answer: The police
+
+QuestionID: blogs-02-1
+Answer: A few years
+
+QuestionID: blogs-02-2
+Answer: on the spot
+
+QuestionID: blogs-02-3
+Answer: I
+
+QuestionID: blogs-02-4
+Answer: because it wanted the young man to know the narrator regretting that it had not aided him .
+
+QuestionID: blogs-02-5
+Answer: on the front yard
+
+QuestionID: blogs-02-6
+Answer: 
+
+QuestionID: blogs-02-7
+Answer: logical mind
+
+QuestionID: blogs-02-8
+Answer: A young man
+
+QuestionID: blogs-02-9
+Answer: The narrator
+
+QuestionID: blogs-02-10
+Answer: A few years
+
+QuestionID: blogs-02-11
+Answer: to wonder that the flash was an orb
+
+QuestionID: blogs-02-12
+Answer: above the narrator .
+
+QuestionID: blogs-02-13
+Answer: A few years ago , a young man died out on my front lawn when he crashed his motorbike .
+
+QuestionID: blogs-02-14
+Answer: on the front yard
+
+QuestionID: blogs-02-15
+Answer: A young man
+
+QuestionID: blogs-02-16
+Answer: The narrator
+
+QuestionID: blogs-02-17
+Answer: and broke the neck of the young man .
+
+QuestionID: blogs-02-18
+Answer: A young man
+
+QuestionID: blogs-02-19
+Answer: The narrator
+
+QuestionID: blogs-02-20
+Answer: and broke the neck of the young man .
+
+QuestionID: blogs-03-1
+Answer: by Hurricane Gustav
+
+QuestionID: blogs-03-2
+Answer: in Monday
+
+QuestionID: blogs-03-3
+Answer: Winds
+
+QuestionID: blogs-03-4
+Answer: President Bush
+
+QuestionID: blogs-03-5
+Answer: in Louisiana
+
+QuestionID: blogs-03-6
+Answer: in order
+
+QuestionID: blogs-03-7
+Answer: a large group of pine trees
+
+QuestionID: blogs-03-8
+Answer: because it owned a group of trees and near the house of the narrator .
+
+QuestionID: blogs-03-9
+Answer: on the house
+
+QuestionID: blogs-03-10
+Answer: The narrator
+
+QuestionID: blogs-03-11
+Answer: An area
+
+QuestionID: blogs-03-12
+Answer: The tree
+
+QuestionID: blogs-03-13
+Answer: The narrator
+
+QuestionID: blogs-03-14
+Answer: were to later fall , and were to later fall on the house of the narrator -- the house of the narrator would have begun to be damaged , and the family of the narrator would begin to be wounded .
+
+QuestionID: blogs-03-15
+Answer: wife
+
+QuestionID: blogs-03-16
+Answer: The narrator
+
+QuestionID: blogs-03-17
+Answer: Once , storm was occurring in Louisiana .
+
+QuestionID: blogs-03-18
+Answer: The narrator
+
+QuestionID: blogs-03-19
+Answer: in Louisiana
+
+QuestionID: blogs-03-20
+Answer: The narrator
+
+QuestionID: blogs-04-1
+Answer: The squirrel
+
+QuestionID: blogs-04-2
+Answer: The squirrel
+
+QuestionID: blogs-04-3
+Answer: The squirrel 's paw
+
+QuestionID: blogs-04-4
+Answer: in the bowl
+
+QuestionID: blogs-04-5
+Answer: Squirrels
+
+QuestionID: blogs-04-6
+Answer: I
+
+QuestionID: blogs-04-7
+Answer: a digital camera .
+
+QuestionID: blogs-04-8
+Answer: the day
+
+QuestionID: blogs-04-9
+Answer: on the railing
+
+QuestionID: blogs-04-10
+Answer: on the deck
+
+QuestionID: blogs-04-11
+Answer: on the deck
+
+QuestionID: blogs-04-12
+Answer: because the squirrel was startled .
+
+QuestionID: blogs-04-13
+Answer: a large steel bowl of water
+
+QuestionID: blogs-04-14
+Answer: on the deck
+
+QuestionID: blogs-04-15
+Answer: in order for the birds to wait .
+
+QuestionID: blogs-05-1
+Answer: a group of students and a narrator .
+
+QuestionID: blogs-05-2
+Answer: the group of students for presence and stood at the front of a classroom .
+
+QuestionID: blogs-05-3
+Answer: The narrator
+
+QuestionID: blogs-05-4
+Answer: teaching
+
+QuestionID: blogs-05-5
+Answer: The narrator
+
+QuestionID: blogs-05-6
+Answer: the slip
+
+QuestionID: blogs-05-7
+Answer: I
+
+QuestionID: blogs-05-8
+Answer: with you one of my most embarassing moments as a teacher to date .
+
+QuestionID: blogs-05-9
+Answer: that my underslip had somehow made its way to the floor .
+
+QuestionID: blogs-05-10
+Answer: stepped over the slip .
+
+QuestionID: blogs-05-11
+Answer: because the not-functional elastic of the slip was dysfunctional .
+
+QuestionID: blogs-05-12
+Answer: The narrator
+
+QuestionID: blogs-05-13
+Answer: teaching a mixed class of 5th graders ESL .
+
+QuestionID: blogs-05-14
+Answer: Elastic gone What to do ?
+
+QuestionID: blogs-05-15
+Answer: No one
+
+QuestionID: blogs-05-16
+Answer: The narrator
+
+QuestionID: blogs-05-17
+Answer: There once was a group of students and a narrator .
+
+QuestionID: blogs-06-1
+Answer: An oven
+
+QuestionID: blogs-06-2
+Answer: a group of treats and created some fire .
+
+QuestionID: blogs-06-3
+Answer: The husband
+
+QuestionID: blogs-06-4
+Answer: the door of the oven
+
+QuestionID: blogs-06-5
+Answer: A couple
+
+QuestionID: blogs-06-6
+Answer: The oven
+
+QuestionID: blogs-06-7
+Answer: stuck ? ? ...
+
+QuestionID: blogs-06-8
+Answer: supposed to be baking at 350 degrees but somehow broiler came on and got stuck ? ? ...
+
+QuestionID: blogs-06-9
+Answer: a plug-in burner griddle and counter
+
+QuestionID: blogs-06-10
+Answer: because the broiler of the oven activated .
+
+QuestionID: blogs-06-11
+Answer: in order
+
+QuestionID: blogs-06-12
+Answer: The fire
+
+QuestionID: blogs-06-13
+Answer: to prevent the fire spreading .
+
+QuestionID: blogs-06-14
+Answer: about my new range
+
+QuestionID: blogs-06-15
+Answer: them in flames .
+
+QuestionID: blogs-06-16
+Answer: The oven scorched a group of treats and created some fire .
+
+QuestionID: blogs-06-17
+Answer: The husband
+
+QuestionID: blogs-06-18
+Answer: An oven
+
+QuestionID: fables-01-1
+Answer: on a branch
+
+QuestionID: fables-01-2
+Answer: when a Fox observed her and set his wits to work to discover some way of getting the cheese .
+
+QuestionID: fables-01-3
+Answer: A Crow
+
+QuestionID: fables-01-4
+Answer: A fox observed the crow and tried to discover how to get the cheese .
+
+QuestionID: fables-01-5
+Answer: under the tree
+
+QuestionID: fables-01-6
+Answer: There once was a crow .
+
+QuestionID: fables-01-7
+Answer: The crow
+
+QuestionID: fables-01-8
+Answer: a crow .
+
+QuestionID: fables-01-9
+Answer: in the beak
+
+QuestionID: fables-01-10
+Answer: A Crow
+
+QuestionID: fables-01-11
+Answer: A fox
+
+QuestionID: fables-01-12
+Answer: said that the beauty of the bird was incomparable .
+
+QuestionID: fables-01-13
+Answer: The crow felt that the fox had flattered her and cawed loudly in order for she to show him that she was able to sing .
+
+QuestionID: fables-01-14
+Answer: A fox
+
+QuestionID: fables-01-15
+Answer: A fox
+
+QuestionID: fables-01-16
+Answer: The fox
+
+QuestionID: fables-01-17
+Answer: The crow
+
+QuestionID: fables-01-18
+Answer: The crow
+
+QuestionID: fables-02-1
+Answer: A Lion
+
+QuestionID: fables-02-2
+Answer: The Bull
+
+QuestionID: fables-02-3
+Answer: in a meadow
+
+QuestionID: fables-02-4
+Answer: The bull
+
+QuestionID: fables-02-5
+Answer: A lion
+
+QuestionID: fables-02-6
+Answer: that the lion was friendly .
+
+QuestionID: fables-02-7
+Answer: dear friend
+
+QuestionID: fables-02-8
+Answer: dear friend
+
+QuestionID: fables-02-9
+Answer: to eat the bull .
+
+QuestionID: fables-02-10
+Answer: because the lion feared sharp every horn of the bull .
+
+QuestionID: fables-02-11
+Answer: sharp every horn of the bull
+
+QuestionID: fables-02-12
+Answer: friend
+
+QuestionID: fables-02-13
+Answer: A lion
+
+QuestionID: fables-02-14
+Answer: because the lion wanted to eat the bull .
+
+QuestionID: fables-02-15
+Answer: advised the bull to remove every horn of the bull because every horn of the bull was ugly .
+
+QuestionID: fables-02-16
+Answer: because every horn of the bull was ugly .
+
+QuestionID: fables-02-17
+Answer: to attempt to kill the bull .
+
+QuestionID: fables-02-18
+Answer: The lion
+
+QuestionID: fables-02-19
+Answer: a fat bull
+
+QuestionID: fables-02-20
+Answer: because the lion wanted to eat the bull .
+
+QuestionID: fables-02-21
+Answer: watched the bull and salivated because the lion wanted to eat the bull .
+
+QuestionID: fables-02-22
+Answer: watched the bull and salivated because the lion wanted to eat the bull .
+
+QuestionID: fables-02-23
+Answer: The lion
+
+QuestionID: fables-03-1
+Answer: An Eagle
+
+QuestionID: fables-03-2
+Answer: An Eagle
+
+QuestionID: fables-03-3
+Answer: it in his talons with the intention of carrying it off and devouring it .
+
+QuestionID: fables-03-4
+Answer: A countryman
+
+QuestionID: fables-03-5
+Answer: and seized it in his talons with the intention of carrying it off and devouring it .
+
+QuestionID: fables-03-6
+Answer: into the man
+
+QuestionID: fables-03-7
+Answer: to sip from the drinking vessel .
+
+QuestionID: fables-03-8
+Answer: The eagle
+
+QuestionID: fables-03-9
+Answer: the drinking vessel .
+
+QuestionID: fables-03-10
+Answer: upon the ground
+
+QuestionID: fables-03-11
+Answer: about to slake his thirst with a draught from the horn , when the Eagle knocked it out of his hand , and spilled its contents upon the ground .
+
+QuestionID: fables-03-12
+Answer: the Serpent spat some of his poison into the man 's drinking-horn .
+
+QuestionID: fables-03-13
+Answer: An Eagle
+
+QuestionID: fables-03-14
+Answer: the Serpent
+
+QuestionID: fables-03-15
+Answer: A countryman
+
+QuestionID: fables-03-16
+Answer: A countryman
+
+QuestionID: fables-03-17
+Answer: who owned a drinking vessel tried to help the eagle to escape .
+
+QuestionID: fables-03-18
+Answer: A countryman
+
+QuestionID: fables-03-19
+Answer: who owned a drinking vessel tried to help the eagle to escape .
+
+QuestionID: fables-03-20
+Answer: some poison in the drinking vessel .
+
+QuestionID: fables-03-21
+Answer: exertions
+
+QuestionID: fables-03-22
+Answer: An eagle
+
+QuestionID: fables-03-23
+Answer: The eagle fought
+
+QuestionID: fables-03-24
+Answer: 
+
+QuestionID: fables-03-25
+Answer: An eagle
+
+QuestionID: fables-03-26
+Answer: A countryman
+
+QuestionID: fables-03-27
+Answer: in the drinking vessel
+
+QuestionID: fables-04-1
+Answer: A Fox
+
+QuestionID: fables-04-2
+Answer: a large flat dish of soup .
+
+QuestionID: fables-04-3
+Answer: The fox only served some soup in a flat and large dish .
+
+QuestionID: fables-04-4
+Answer: A clever fox
+
+QuestionID: fables-04-5
+Answer: in a flat and large dish .
+
+QuestionID: fables-04-6
+Answer: because he was n't able to reach some food that was in the pitcher .
+
+QuestionID: fables-04-7
+Answer: into the long and narrow neck of the pitcher
+
+QuestionID: fables-04-8
+Answer: for it was impossible for him to reach the tempting contents of the vessel .
+
+QuestionID: fables-04-9
+Answer: broth .
+
+QuestionID: fables-04-10
+Answer: The stork
+
+QuestionID: fables-04-11
+Answer: The stork easily fitted the long bill of the stork into the long and narrow neck of the pitcher .
+
+QuestionID: fables-04-12
+Answer: fox invited a stork to dine .
+
+QuestionID: fables-04-13
+Answer: in a flat and large dish
+
+QuestionID: fables-04-14
+Answer: The stork
+
+QuestionID: fables-04-15
+Answer: The stork
+
+QuestionID: fables-04-16
+Answer: some soup
+
+QuestionID: fables-04-17
+Answer: The stork
+
+QuestionID: fables-05-1
+Answer: A Farmer
+
+QuestionID: fables-05-2
+Answer: at night
+
+QuestionID: fables-05-3
+Answer: It
+
+QuestionID: fables-05-4
+Answer: The agriculturist
+
+QuestionID: fables-05-5
+Answer: in order
+
+QuestionID: fables-05-6
+Answer: The agriculturist
+
+QuestionID: fables-05-7
+Answer: The corn
+
+QuestionID: fables-05-8
+Answer: The agriculturist
+
+QuestionID: fables-05-9
+Answer: 
+
+QuestionID: fables-05-10
+Answer: The agriculturist
+
+QuestionID: fables-05-11
+Answer: The agriculturist
+
+QuestionID: fables-05-12
+Answer: because the fox ran into a field .
+
+QuestionID: fables-05-13
+Answer: The corn ignited and burned completely .
+
+QuestionID: fables-05-14
+Answer: He
+
+QuestionID: fables-05-15
+Answer: began to be annoyed by the fox .
+
+QuestionID: fables-05-16
+Answer: An agriculturist
+
+QuestionID: fables-06-1
+Answer: in a lair
+
+QuestionID: fables-06-2
+Answer: The Mouse
+
+QuestionID: fables-06-3
+Answer: him
+
+QuestionID: fables-06-4
+Answer: One day the Lion got entangled in a net which had been spread for game by some hunters , and the Mouse heard and recognised his roars of anger and ran to the spot .
+
+QuestionID: fables-06-5
+Answer: because a mouse ran into the face of the lion .
+
+QuestionID: fables-06-6
+Answer: A trapper spread
+
+QuestionID: fables-06-7
+Answer: The lion
+
+QuestionID: fables-06-8
+Answer: the rope of the net
+
+QuestionID: fables-06-9
+Answer: up by a Mouse running over his face .
+
+QuestionID: fables-06-10
+Answer: in order to catch a big game .
+
+QuestionID: fables-06-11
+Answer: The mouse
+
+QuestionID: fables-06-12
+Answer: the voice of the lion
+
+QuestionID: fables-06-13
+Answer: with its teeth
+
+QuestionID: fables-06-14
+Answer: a lion
+
+QuestionID: fables-06-15
+Answer: The mouse
+
+QuestionID: fables-06-16
+Answer: because he thought that the mouse is extremely not able to help him .
+
+QuestionID: fables-06-17
+Answer: The lion
+
+QuestionID: fables-06-18
+Answer: some net
+
