@@ -1,17 +1,27 @@
 This program was written as the final assignment for “Introduction to Natural Language Processing” (CMPS_143) class at University of California Santa Cruz by Jeremy Chien, Ethan Seither, and Ekaterina Tcareva. 
+
 Our goal was to design and build a question answering system  which can produce the answers to the questions about a given text. 
+
 Our question-answering system (q_a_new_chunk_2.py) accepts a single input file as a command-line argument. This file contains a list of file StoryIDs in the order that they should be processed. We assume that we have some files which contain the stories and some files which contain the questions in the same directory.  
+
 To run the program:
 python3 q_a_new_chunk_2.py hw8_process_stories.txt
+
 The output is the single response file (chien_seither_tcareva_answers.txt) which contains a list of answers.
 Each question file contains 4 lines for each question indicating the QuestionID, the question itself, a difficulty rating, and the file we should use to find the answer. The Difficulty ratings are based upon the methods required for extracting the answer. 
 
 For example, for  blogs-01.questions:
+
 ………
+
 QuestionID: blogs-01-3
+
 Question: Where did the protest happen?
+
 Difficulty: Easy
+
 Type: Story | Sch
+
 
 QuestionID: blogs-01-4
 Question: What did the people burn?
